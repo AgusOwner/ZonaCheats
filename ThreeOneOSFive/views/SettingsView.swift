@@ -106,7 +106,7 @@ struct SettingsView: View {
                     creditsRow(
                         name: "Discord",
                         role: language.text("social.github_role"),
-                        url: "https://discord.gg/AJdK8NtDBN"
+                        url: "https://discord.gg/KBA3QjDPsu"
                     )
                     creditsRow(
                         name: "Cộng Đồng IOSVN",
