@@ -32,7 +32,7 @@ struct RepositoryHomeView: View {
                 await store.refreshAllAndWait()
                 rebuildFeed()
             }
-            .navigationTitle("Argent")
+            .navigationTitle("ZonaCheatsX")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 AppUtilityToolbar(
